@@ -5,6 +5,11 @@ this is an engine made for the stockmarket , it features actualt 0 drift since i
 
 Benchmark demo : [CLICK HERE](https://sighthough.github.io/Stockmarket-zero-drift-engine-base2520/)
 
+feel free to rip anything you need from the index file
+i also include a couple of files with C implementation and example
+its definately vibe coded 
+may the bugs be few
+
 
 
 
