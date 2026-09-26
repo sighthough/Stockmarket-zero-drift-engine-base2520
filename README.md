@@ -1,7 +1,7 @@
 # Stockmarket-zero-drift-engine-base2520
 this is an engine made for the stockmarket , it features actualt 0 drift since its made in base 2520 to not have any rounding errors at all
 
-*Co-authored by [sighthough](https://youtu.be/UtPiUGwu-0Q) and Googles Gemini 3.6.*
+*Co-authored by [sighthough](https://youtu.be/UtPiUGwu-0Q) and [Googles Gemini](https://www.youtube.com/shorts/R3Qo4rBgrD8).*
 
 Benchmark demo : [CLICK HERE](https://sighthough.github.io/Stockmarket-zero-drift-engine-base2520/)
 
